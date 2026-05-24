@@ -78,7 +78,13 @@ def cadastro_socios():
       if len(cpf) != 11:
          print("Quantidade de caracteres incorreta.")
          continue
+      if cpf_ja_cadastrado(cpf):
+         print("Este CPF já está cadastrado no sistema.")
+         continue
       break
+   
+   
+   
    # valida a senha minimo de 8 e maximo de 32 caracteres
    while True:
       senha = input("Digite sua senha: ")
