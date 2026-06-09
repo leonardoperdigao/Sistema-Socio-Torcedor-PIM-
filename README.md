@@ -18,5 +18,5 @@ Frameworks: Hashlib e Json.
 Execução do projeto:
 Para executar o projeto e somente necessário a linguaguem python (ver. utilizada para criação 3.14) e um interpretador ou até mesmo terminal (Vs code, Pycharm e etc).
 
-Data da entrega: 03/06/2025 
+Data da entrega: 03/06/2026
 Professor Orientador: Daniele Pimenta. 
